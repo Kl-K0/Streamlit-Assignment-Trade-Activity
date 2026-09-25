@@ -201,7 +201,7 @@ fig_bubble= px.scatter(
     color_discrete_map ={
         'Small' : 'Pink',
         'Medium' : 'blue',
-        'Large' : 'green'
+        'Large' : 'orange'
     },
     title= f'The size of Institutions across Districts',
     labels={'Count': 'Number of Institutions'},
