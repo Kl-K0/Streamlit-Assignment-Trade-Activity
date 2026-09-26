@@ -226,7 +226,7 @@ with st.expander("Design Justification"):
     st.write ("""
 -**Chart**: This chart was used for the purpose of understanding the distribution of small , medium  and large institutions. Larger bubbles indicate higher number of institutions , while smaller ones indicated low numbers , which can be easier to spot at first glass, and helps with comparison.
 
--**Multiselect Feature**:  This feature helps users answer the question :**"How do institution sizes vary between districts?" **
+-**Multiselect Feature**:  This feature helps users answer the question :"**How do institution sizes vary between districts?**"
 
 The feature was chosen to enhance comparison between districts' institution sizes since it allows users to select multiple districts of their choice . The colors allocated to each size helps increase contrast and makes this comparison easier. Showing every district at once may make the chart cluttered, and allowing users to filter districts and show only those that are relevant to them can help them differentiate between 2 or more districts , an infer insights that may be more relevant to them.
 
