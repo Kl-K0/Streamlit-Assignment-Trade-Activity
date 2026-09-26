@@ -222,7 +222,7 @@ st.plotly_chart(fig_bubble, use_container_width=True)
 
 
 
-with st.expander("Design Justification"):
+with st.expander("Design Justification: Bubble Chart"):
     st.write ("""
 -**Chart**: This chart was used for the purpose of understanding the distribution of small , medium  and large institutions. Larger bubbles indicate higher number of institutions , while smaller ones indicated low numbers , which can be easier to spot at first glass, and helps with comparison.
 
