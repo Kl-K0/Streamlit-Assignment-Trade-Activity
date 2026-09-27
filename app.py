@@ -93,7 +93,9 @@ bubble_data = pd.melt(
 
 
 st.title("Lebanon's Institutions and Commercial Activity by District")
-
+st.write ("""
+This project investigates business activity and insitutions sizes throughout 18 districts in Lebanon.
+""")
 with st.sidebar:
     st.header("District View")
 
